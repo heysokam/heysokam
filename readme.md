@@ -11,18 +11,11 @@ Microsoft:
 > and [lets merge the entire GitHub team into the **CodeAI** subdivision](https://devops.com/github-ceo-to-step-down-as-company-is-more-tightly-embraced-by-microsofts-coreai-team/).  
 
 Me:
-> Wait, what?... What did you just merge? What the hell?  
-> 🤦 Let me move all my repos [out of GitHub](https://docs.codeberg.org/getting-started/what-is-codeberg/).  
+> Wait, what?... What the hell?  
+> 🤦 Moving all my repos [out of GitHub](https://docs.codeberg.org/getting-started/what-is-codeberg/).  
 
 ## Explanation
-The AI gold fever will make you believe that "AI is the future, bro!".  
-But I personally believe that the world is becoming much much worse overall.  
-Full of lies and deception, all in the name of some paper money that doesn't even exist.  
-
-As such, I don't want to be a contributor, in any way,  
-to the AI enshittification that is rampant in this age of technology.  
-
-Some more food for thought:  
+Some food for thought:  
 [Give Up GitHub: by the SFC](https://sfconservancy.org/GiveUpGitHub/)  
 
 I don't know if I agree with their points or not.  
